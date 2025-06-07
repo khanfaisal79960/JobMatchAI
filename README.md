@@ -7,6 +7,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 [**View Live Demo**](https://job-match-ai.streamlit.app/)
+
+---
+
 ## 🌟 Features
 
 - 📝 **Resume Text Input**: Paste your resume to get smart job recommendations.
